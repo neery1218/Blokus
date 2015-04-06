@@ -1,7 +1,3 @@
-# Blokus
-
-Users Guide
-
 #Background
 Blokus is an abstract strategy board game for two to four players, invented by Bernard Tavitian and first released in 2000 by Sekkoïa, a French company. The game is played on a square board divided into 20 rows and 20 columns for a total of 400 squares. There are total of 84 game tiles organized into 21 shapes in each of four colors: blue, red, yellow and green. The objective of the game is each player has to ﬁt as many of his/her 21 pieces on the board as possible. Each player chooses a color and places that set of 21 pieces in front of his/her side on the board, each new piece which the player places must touch at least one other piece of the same color but without contact between two sides. The game ends for a player when the player is blocked and can no longer put down any pieces or that player run out of pieces. 
 
